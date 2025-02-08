@@ -17,4 +17,4 @@ This may come as a surprise, but the profile picture is not actually a photo of 
 
 Where's Everything Else?
 ======
-I am well aware that my website is a bit.. bare at the moment. This is in part because this is a website made for a class, and also because I don't yet think I have anything worth sharing with the world. If that changes, you can expect me to edit the navigation bar and add tabs and links accordingly.
+I am well aware that my website is a bit.. bare at the moment. This is in part because this is a website made for a class, and also because I don't yet think I have anything worth sharing with the world. If that changes, you can expect me to edit the navigation bar and add tabs and links accordingly. However, don't expect me to ever post any academic projects or anything of that nature here.
